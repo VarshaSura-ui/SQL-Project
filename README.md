@@ -1,5 +1,5 @@
 # SQL-Prject
-# # Project title
+# Project title
 # Student Course Enrollment management system
 # Business problem:
 
